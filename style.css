@@ -513,3 +513,9 @@ body {
       "message message message";
   }
 }
+
+@media (max-width: 375px) {
+  .grid-second-content {
+    margin-left: -2.5rem;
+  }
+}
